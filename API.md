@@ -611,7 +611,7 @@ this:
 ```js
 xaxis: {
     mode: "time",
-    timeformat: "%Y/%m/%d"
+    timeformat: "%y/%m/%d"
 }
 ```
 
